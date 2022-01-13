@@ -1,0 +1,23 @@
+%Creación del documento
+\documentclass[12pt, a4paper]{report}
+
+% Paquetes
+\input{packages/core.tex}
+\input{packages/extra.tex}
+
+% Comandos
+\input{commands/mathematicalcommands.tex}
+
+% Datos
+\input{datos.tex}
+
+%Comienzo del documento
+\begin{document}
+
+\input{pages/portada.tex}
+
+\setcounter{page}{1}
+
+\input{pages/cuerpo.tex}
+
+\end{document}
