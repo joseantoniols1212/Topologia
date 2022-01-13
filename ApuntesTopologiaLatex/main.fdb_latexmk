@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1635454122 "main.tex" "main.pdf" "main" 1635454123
+["pdflatex"] 1635454122 "main.tex" "main.pdf" "main" 1642004375
   "/etc/texmf/web2c/texmf.cnf" 1633794711 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -178,7 +178,7 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1581979058 38841 ce3692aa899bb693b90b87eaa5d4d84e ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1633794815 4770781 1ed1abab22da9c3e2cc82e4db562318b ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1633794837 8257237 6c40fabbaa19744dbfb301816b44c115 ""
-  "commands/mathematicalcommands.tex" 1635454111 201 e69436f6f082019a6b8dd6dd351fca56 ""
+  "commands/mathematicalcommands.tex" 1635454161 201 e69436f6f082019a6b8dd6dd351fca56 ""
   "datos.tex" 1635451788 316 a368654f8ec5301d4559fe039ae0deb4 ""
   "images/LogoUMA.png" 1635443999 63593 bdc8df1d9e816c67a7677fea638be514 ""
   "main.aux" 1635454123 824 b230306865db10ad157a8542c79df37d "pdflatex"
@@ -189,6 +189,6 @@
   "pages/cuerpo.tex" 1635451067 36 49ba3de743123ed097426744b6526d3c ""
   "pages/portada.tex" 1635451834 420 08bd6ea40f6ee96e9f586fee96dd79f2 ""
   (generated)
-  "main.aux"
   "main.log"
   "main.pdf"
+  "main.aux"
